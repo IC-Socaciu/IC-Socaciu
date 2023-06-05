@@ -1,6 +1,6 @@
 # Welcome to my very first repository! 🙃
 
-Although I have graduated **Linguistics**, as most of my jobs were based on my language skills, each work experience happened to challenge me to more technical aspects and expose me to different angles of the ever-growing and ever-learning computer world...
+Although I have graduated **Linguistics** and have a passion for everything cultures, languages, people and communication in general, most of my jobs happened to challenge me with more technical aspects and expose me to different angles of the ever-growing and ever-learning computer world...
 
 ...which is what brought me [here](https://www.neuefische.de/bootcamp/web-development) today!
 
