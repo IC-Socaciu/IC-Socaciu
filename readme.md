@@ -1,4 +1,4 @@
-# Welcome to my very first repository!
+# Welcome to my very first repository! 🙃
 
 Although I have graduated **Linguistics**, as most of my jobs were based on my language skills, each work experience happened to challenge me to more technical aspects and expose me to different angles of the ever-growing and ever-learning computer world...
 
