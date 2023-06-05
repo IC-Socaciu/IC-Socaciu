@@ -1,6 +1,8 @@
 # Welcome to my very first repository!
 
-Although I have gradutated **Linguistics**, I started to both be intrigued and need to get more technical, which is what brought me [here](https://www.neuefische.de/bootcamp/web-development) today!
+Although I have graduated **Linguistics**, as most of my jobs were based on my language skills, each work experience happened to be more or less technical or just expose me to different aspects of the ever-learning computer worold...
+
+...which is what brought me [here](https://www.neuefische.de/bootcamp/web-development) today!
 
 ---
 First day is always difficult and I am trying to approach this *new challenge* with the following mentality:
