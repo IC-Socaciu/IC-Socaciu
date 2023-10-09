@@ -20,6 +20,6 @@ ronments. Always enjoying learning new things I am a vigilant team player.
 
 ### Additional tools
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,confluence,bootstrap,codepen,slack,trello,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,bootstrap,codepen,slack,trello,)](https://skillicons.dev)
 
 ### Soft skills
