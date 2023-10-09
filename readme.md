@@ -2,13 +2,19 @@
 
 **Novice Frontend Developer**
 
-Although I have graduated **Linguistics**, most of my jobs happened to challenge me with more technical aspects and expose me to different angles of the ever-growing and ever-learning computer world. In most of my work experiences I have worked as a Customer Support or Help Desk Agent and there is always more to learn and more to improve...
+As a support professional transitioning into web development, I possess unique insights into customers
+and their pain points. I am looking to expand my knowledge in coding responsive websites and mobile-
+first applications and efficiently design and develop web solutions that are agile, user-friendly, and visual-
+ly appealing. As an articulate, mature, positive and hardworking team member, I always achieve the high-
+est standard possible, at any given task. My excellent communication skills, empathic listening, coupled
+with the ability to work comfortably at all levels empower me to work in fast-paced multicultural envi-
+ronments. Always enjoying learning new things I am a vigilant team player.
 
-...which is what brought me [here](https://www.neuefische.de/bootcamp/web-development) today!
+...which is what brought me  today!
 
 ---
 
-### Languages and tools used throughout my Neuefische Web-Dev Bootcamp
+### Languages and tools used throughout my [Neuefische Web-Dev Bootcamp](https://www.neuefische.de/bootcamp/web-development)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,git,md,mongodb,vercel,vscode,)](https://skillicons.dev)
 
