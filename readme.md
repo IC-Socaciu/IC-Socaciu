@@ -7,9 +7,7 @@ Although I have graduated **Linguistics**, most of my jobs happened to challenge
 ...which is what brought me [here](https://www.neuefische.de/bootcamp/web-development) today!
 
 ---
-First day is always difficult and, as in any stressful situation in life, I am trying to tackle this *new challenge* with the following approach:
 
-![](https://media.sketchfab.com/models/49efaa2c91094e4ab3c8184d2ec537a9/thumbnails/b0b040369cc541719272d827e328e643/7f49e2acb05a4beab23e908069e2ca22.jpeg)
 
 Outside work and Bootcamp, I am interested in numerous things (there is always something new to do or learn):
 
