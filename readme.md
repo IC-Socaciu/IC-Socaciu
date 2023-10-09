@@ -8,7 +8,7 @@ Although I have graduated **Linguistics**, most of my jobs happened to challenge
 
 ---
 
-## Languages and tools used throughout my Neuefische Web-Dev Bootcamp
+### Languages and tools used throughout my Neuefische Web-Dev Bootcamp
 Outside work and Bootcamp, I am interested in numerous things (there is always something new to do or learn):
 
 5. . 
