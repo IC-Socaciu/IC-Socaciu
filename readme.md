@@ -18,3 +18,8 @@ ronments. Always enjoying learning new things I am a vigilant team player.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,git,md,mongodb,vercel,vscode,)](https://skillicons.dev)
 
+### Additional tools
+
+[![My Skills](https://skillicons.dev/icons?i=wordpress,balsamiq)](https://skillicons.dev)
+
+### Soft skills
