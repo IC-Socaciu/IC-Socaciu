@@ -1,4 +1,4 @@
-# Ioana-Cristina Socaciu
+
 
 **Novice Frontend Developer**
 
